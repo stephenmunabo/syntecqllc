@@ -1,0 +1,444 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+.header-bgarea {
+
+	height: 663px;
+	
+}
+.header-bgtext {
+	height: 663px;
+}
+
+}
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+.header-bgarea {
+
+	height: 550px;
+	
+}
+.header-bgtext {
+	height: 550px;
+}
+
+    
+    
+.footernight h5 {
+	font-size: 35px;
+}
+
+.trade-content {
+	padding-top: 128px;
+}
+
+.trade-content::after {
+	top: 28%;
+	transform: translateY(-28%);
+}
+
+.bighand-content {
+	padding-top: 124px;
+}
+.bighand-content::after {
+	top: 24%;
+	transform: translateY(-24%);
+}
+.bighand-content.scales::after {
+	top: 28%;
+	transform: translateY(-28%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    
+.header-bgarea {
+
+	height: 429px;
+	
+}
+.header-bgtext {
+	height: 429px;
+}
+    
+    
+.trade-content {
+	width: 100%;
+	padding-top: 82px;
+}
+
+
+.trade-content::after {
+	top: 18%;
+	transform: translateY(-18%);
+}
+
+
+.bighand-content {
+	max-width: 100%;
+}
+
+
+.bighand-content h3 {
+	font-size: 32px;
+}
+
+.bighand-content {
+	max-width: 100%;
+	padding-top: 88px;
+}
+
+.bighand-content::after {
+	top: 18%;
+	transform: translateY(-18%);
+}
+
+.bighand-content.scales::after {
+	top: 22%;
+	transform: translateY(-22%);
+}
+.footernight h5 {
+	font-size: 26px;
+}
+
+.footertopnut {
+	padding: 48px 32px;
+}
+.footerdario a {
+	font-size: 11px;
+	padding: 10px 18px;
+}
+
+.trade-content h3 {
+	font-size: 22px;
+}
+.bighand-content h3 {
+	font-size: 22px;
+}
+
+.trade-content.longest::after {
+	top: 35%;
+	transform: translateY(-35%);
+}
+.trade-area {
+	background: #010101;
+	padding-top: 32px;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    
+.trade-content {
+
+	padding-top: 38px;
+
+}
+.bighand-content {
+	padding-top: 38px;
+}  
+.trade-content {
+	width: auto;
+	
+} 
+.single-content-sec p {
+	font-size: 11px;
+	line-height: 22px;
+	letter-spacing: 1.82px;
+	text-transform: uppercase;
+	opacity: 0.7;
+} 
+.slash h4 {
+	font-size: 14px;
+	letter-spacing: 3.5px;
+	opacity: 0.7;
+	line-height: 20.65px;
+} 
+.slash::after {
+	
+	top: 26%;
+
+}  
+    
+    
+    
+.blogcontent-area {
+
+	padding-top: 28px;
+} 
+.slash {
+	padding-top: 101px;
+	position: relative;
+}  
+    
+#myVideo {
+	position: absolute;
+	width: 100%;
+	display: none;
+}
+.header-bgtext {
+	height: 455px;
+}  
+.humberger-menu {
+	display: block;
+}
+.header-bgtext h3 {
+	font-size: 20px;
+}
+.header-bgtext h3 br {
+	display: none;
+}
+
+.trade-content h3 {
+	font-size: 25px;
+	letter-spacing: 2.97px;
+	line-height: 30px;
+}
+.trade-wrap {
+	text-align: center;
+}
+.bighand-content h3 {
+	font-size: 25px;
+	letter-spacing: 2.97px;
+	line-height: 30px;
+}
+.footertopnut {
+	padding: 32px 0px;
+}
+
+.footerdario {
+	text-align: center;
+	margin-top: 29px;
+}
+.single-content-sec h3::after {
+	position: absolute;
+	background: #3484F5;
+	width: 51px;
+	height: 1px;
+	content: "";
+	left: 50%;
+	top: -26.9px;
+	transform: translateY(-28%);
+	transform: translate(-50%);
+}
+.footertopnut {
+	background: #191919;
+	padding: 30px;
+}
+.bighand-wrap {
+  text-align: center;
+}  
+.header-logo a img {
+	max-width: 95px;
+	width: 70px;
+}
+    
+    
+.footer-leftlist a {
+	color: #fff;
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.65px;
+	opacity: 0.4;
+}  
+.footer-leftlist li {
+	display: inline-block;
+	padding-right: 16px;
+} 
+.footerdario a {
+	font-size: 8.4px;
+	color: #fff;
+	border: 1px solid #0D3D80;
+	display: block;
+	padding: 10px 3px;
+	text-align: center;
+	width: 118px;
+	letter-spacing: 1.75px;
+}
+.footerdario {
+	float: left;
+	margin-top: 29px;
+}
+.footernight h5 {
+	font-size: 25px;
+	line-height: 33px;
+}
+.footernight p {
+	font-size: 12px;
+	margin-bottom: 0;
+	letter-spacing: 1.99px;
+	text-transform: uppercase;
+	opacity: 0.7;
+	line-height: 20px;
+}
+.trade-content.longest::after {
+	top: 38%;
+	transform: translateY(-38%);
+}
+
+
+.bighand-content.scales::after {
+	top: 35%;
+	transform: translateY(-35%);
+}
+
+.trade-content::after {
+	top: 41%;
+	transform: translateY(-41%);
+}
+
+.header-bgarea {
+	background: url(../img/bg1.png);
+	background-position: center;
+	background-size: cover;
+	height: 455px;
+}
+.header-menu {
+	display: none;
+}
+    
+    
+    
+.header-logo {
+	z-index: 99;
+}
+
+
+.humberger-menu {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	padding: 200px 25px;
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+.toggle {
+	position: absolute;
+	top: 10px;
+	right: 0px;
+	transform: translate(-40%,-40%);
+	width: 40px;
+	height: 37px;
+	background: transparent;
+	cursor: pointer;
+	border-radius: 5px;
+	overflow: hidden;
+}
+.toggle span {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-40%,-40%) rotate(0deg);
+	width: calc(100% - 12px);
+	height: 2px;
+	background: #fff;
+	box-shadow: 0 -8px 0 #fff, 0 8px 0 #fff;
+    transition-property: transform, box-shadow;
+    transition-delay: 0s, 1s;
+    transition-duration: 0.4s, 0.4s;
+}
+
+
+
+ .toggle.active-toggle span{
+     box-shadow: 40px -8px 0 #fff, -40px 8px 0 #fff;
+     transform: translate(-40%,-40%) rotate(45deg);
+       transition-property: box-shadow, transform;
+    transition-delay: 0s, 0.4s;
+    transition-duration: 0.4s,0.4s;
+}
+    
+
+.toggle span:before{
+   content: '';
+    position: absolute;
+    left: 48%;
+    top: -35px;
+    width: 2px;
+    transform: translate(-40%,-40%);
+    background: #fff;
+    transition: .4s;
+    height:28px;
+     transition-delay: 0s, 0.4s;
+    
+}
+
+.toggle.active-toggle span::before {
+	top: 50%;
+	margin-top: -3px;
+}
+.humberger-menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ .humberger-menu ul li {
+	display: block;
+}
+ .humberger-menu li a {
+	font-size: 16px;
+	color: #fff;
+	font-weight: 400;
+	margin: 16px 0;
+	display: block;
+	border-bottom: 1px solid #454748;
+	padding-bottom: 10px;
+	margin-bottom: 25px;
+}   
+
+
+}
+
+
+
+
+
+
+
