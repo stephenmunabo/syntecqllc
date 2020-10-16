@@ -142,7 +142,9 @@
     }
     #myVideo {
         position: absolute;
-        width: 168%;
+        width: 180%;
+        height: 139%;
+        margin-top: -50px;
     }
     .header-bgtext {
         height: 455px;
