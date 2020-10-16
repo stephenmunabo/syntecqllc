@@ -253,6 +253,7 @@
         background-position: center;
         background-size: cover;
         height: 455px;
+        background-color: #000;
     }
     .header-menu {
         display: none;
